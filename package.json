@@ -1,0 +1,21 @@
+{
+  "name": "chronicles-of-communication",
+  "version": "1.0.0",
+  "description": "Digital archive and VR modules for communication history",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo \"build complete\"",
+    "test": "echo \"No tests specified\"",
+    "lint": "echo \"No lint configured\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1",
+    "prettier": "^3.2.5"
+  }
+}
