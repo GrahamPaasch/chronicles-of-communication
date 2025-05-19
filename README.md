@@ -124,6 +124,18 @@ chronicles-of-communication/
 2. Submit pull request with description of changes.
 3. Adhere to code style and include tests for new modules.
 
+## Roadmap Based on Feasibility Study
+
+Recent research in the included *AI-Assisted Immersive VR Exhibits for Museums: Feasibility Report* highlights strong demand for museum-based VR experiences. Key takeaways shaping our next steps include:
+
+* **High-Value Themes** – Ancient Egypt, natural history and space missions offer rich 3D scans and broad visitor appeal.
+* **Development Toolkit** – Unity or Unreal Engine alongside Blender remain the core stack; AI coding helpers such as OpenAI Codex can speed up scripting.
+* **Funding Sources** – Government grants and arts-focused foundations regularly support digital heritage projects. Tech companies may sponsor headsets or pilot funding.
+* **Licensing Model** – Treat VR exhibits like traveling shows. Build a content library and license finished experiences to multiple museums for a one-time fee or revenue share.
+* **Early Partnerships** – Collaborate with a small group of early-adopter museums and offer co-branding to tech partners to secure the first $1k–$10k in revenue.
+
+The project will focus on a prototype exhibit by late 2025, leveraging open 3D scans and AI-assisted tooling to minimize cost and turnaround time.
+
 ## License
 
 MIT License. See [LICENSE](LICENSE).
