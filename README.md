@@ -7,6 +7,7 @@ A curated digital archive and immersive VR experience that chronicles the evolut
 * [Introduction](#introduction)
 * [Timeline of Communication Advancements](#timeline-of-communication-advancements)
 * [Immersive VR Experiences](#immersive-vr-experiences)
+* [Immersive VR Museum Exhibits](#immersive-vr-museum-exhibits)
 * [Project Structure](#project-structure)
 * [Installation](#installation)
 * [Usage](#usage)
@@ -49,6 +50,32 @@ Each timeline entry includes a VR module simulating the communication context:
 * **Web Browser:** Explore early web pages and hyperlink structures.
 * **VR Social Hub:** Join avatars in a shared virtual environment.
 
+## Immersive VR Museum Exhibits
+
+Our vision is to build AI-generated, cost-effective VR experiences using digitized artifacts from existing collections. Sources such as [Telecom History](https://telecomhistory.org/exhibitsmain.html) and the [Connections Museum](https://en.wikipedia.org/wiki/Connections_Museum) ensure historical accuracy.
+
+### Featured Exhibits
+
+* **1923 Panel Switch** – early automatic switching hardware.
+* **1942 No. 1 Crossbar** – reliable crossbar technology.
+* **Vintage switchboards** – manual patch-cord systems.
+
+### Asset Pipeline
+
+1. 3D scanning of artifacts.
+2. Retopology with LOD models.
+3. Spatial audio capture.
+
+### Visitor Experience Flow
+
+1. Enter a period office.
+2. Travel through a wire-tunnel.
+3. Operate an interactive switchboard.
+4. Remove the headset for an AR reveal.
+
+### Pricing Model
+
+At $10k per exhibit with ten released each year, recurring revenue could reach roughly $100k annually.
 ## Project Structure
 
 ```
