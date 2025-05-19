@@ -136,6 +136,19 @@ Recent research in the included *AI-Assisted Immersive VR Exhibits for Museums: 
 
 The project will focus on a prototype exhibit by late 2025, leveraging open 3D scans and AI-assisted tooling to minimize cost and turnaround time.
 
+## Operational Guidelines from Commercial Viability Study
+
+The *Immersive VR in Museums: Commercial Viability and Strategic Considerations* report highlights key factors for running VR exhibits:
+
+* **Multi-Headset Setup** – Throughput improves when multiple headsets are available. The First Division Museum's Blackhawk VR exhibit uses twelve headsets so family groups can participate together.
+* **Staffing & Orientation** – A docent should assist visitors with putting on headsets and resetting the program, especially for first-time VR users.
+* **Hygiene Procedures** – Clean headsets after every use and provide disposable liners to address health concerns.
+* **Age & Safety Guidance** – Most consumer headsets are recommended for ages 13+, and visitors prone to motion sickness should be advised accordingly. Use marked safe zones or railings to prevent accidents.
+* **Timed Access** – Popular exhibits may require timed tickets or sign-up slots to avoid long waits.
+
+These considerations inform the design of our VR modules and partner museum deployments.
+
+
 ## License
 
 MIT License. See [LICENSE](LICENSE).
